@@ -34,10 +34,6 @@ Feel free to send me a message.
 | misc | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) |
 
 
-
 ---
-### 🧬  A Little bit of Analityics:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omer117)
 
 
